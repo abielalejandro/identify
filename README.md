@@ -109,15 +109,24 @@ Development e implementation of web enterprise apps (Spring MVC, Hibernate, Post
 
 Design, development e implementation of administration dabase proyects (PostgreSQL).
 
+---
+
+
 **System analist** - **Grupo Matcofer, S.A**  *(Caracas, Venezuela)* -
 
 Development e implementation of web enterprise apps
 
 Design, development e implementation of administration dabase proyects.
 
+---
+
 **Programmer** - **Televisora venezolana social** *(Caracas, Venezuela)* -
 
-Development e implementation of web apps. Database administrator. Server administrator Linux, technical support.
+Development e implementation of web apps. 
+Database administrator. 
+Server administrator Linux, technical support.
+
+---
 
 **System analyst** - **Grupo Sinertec, S.A** *(Caracas, Venezuela)* -
 
@@ -126,6 +135,8 @@ Development e implementation of web enterprise apps.
 Design, development e implementation of administration dabase proyects.
 
 Technical support.
+
+---
 
 **Instructor** - **Centro de Estudios Tecnológicos Avanzados -CENTEC-** *(Caracas, Venezuela)* -
 
