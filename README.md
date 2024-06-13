@@ -29,7 +29,7 @@ https://github.dev/abielalejandro
 
 Development and Implementation of Management Projects.
 
-Techical tools used: Java Nextjs, ReactJs, React native, Android, Node, Nestjs, PostgreSQL, Cassandra, Firebase, Quarkus, Springboot,Kafka, Blockchain.
+Technical tools used: Java Nextjs, ReactJs, React native, Android, Node, Nestjs, PostgreSQL, Cassandra, Firebase, Quarkus, Springboot,Kafka, Blockchain.
 
 ---
 
@@ -37,7 +37,7 @@ Techical tools used: Java Nextjs, ReactJs, React native, Android, Node, Nestjs, 
 
 Development and Implementation projects for picking capabiity.
 
-Techical tools used: Nodejs, Nest, Nextjs, Elasticsearch, Microservices, Terraform, K8s AWS: Dynamodb, Lambda, SNS, SQS, Step function, S3, Elasticcache.
+Technical tools used: Nodejs, Nest, Nextjs, Elasticsearch, Microservices, Terraform, K8s AWS: Dynamodb, Lambda, SNS, SQS, Step function, S3, Elasticcache.
 
 Design and implement arquitectures according with client requirements.
 
@@ -47,7 +47,7 @@ Design and implement arquitectures according with client requirements.
 
 Development and Implementation of Management Projects.
 
-Techical tools used: Spring, Angular, Elasticsearch, Cassandra, MySQL.
+Technical tools used: Spring, Angular, Elasticsearch, Cassandra, MySQL.
 
 Create multithreading workloads running as cronjobs in order to proccesing data from differentes sources to be saved in non relational database.
 
@@ -74,7 +74,7 @@ Development of charging system and consultation of electricity consumption metri
 
 Development and Implementation of Management Projects.
 
-Techical tools used: Spring, Angular 7, Node, Express, MySQL, Redis, AWS S3, RabbitMQ
+Technical tools used: Spring, Angular 7, Node, Express, MySQL, Redis, AWS S3, RabbitMQ
 
 Create asynchronous workloads connecteds to RabbitMQ for proccesings reports
 
@@ -84,7 +84,7 @@ Create asynchronous workloads connecteds to RabbitMQ for proccesings reports
 
 Development and Implementation of Management Projects.
 
-Techical tools used: J2EE, Angular 1, ReactJs, Ionic, Node, Express, MySQL, SQL Server. PostgreSQL.
+Technical tools used: J2EE, Angular 1, ReactJs, Ionic, Node, Express, MySQL, SQL Server. PostgreSQL.
 
 Design and implement arquitectures in order to accomplish projects goals.
 
@@ -94,7 +94,7 @@ Design and implement arquitectures in order to accomplish projects goals.
 
 Development and Implementation of Management Projects.
 
-Techical tools used: Java J2EE, Thorntail, Angular, ReactJs, Ionic, Android, Node, Express, MySQL, PostgreSQL, 
+Technical tools used: Java J2EE, Thorntail, Angular, ReactJs, Ionic, Android, Node, Express, MySQL, PostgreSQL, 
 Cassandra, Wildfly, Apache ActiveMQ, Firebase, Quarkus, Kafka, Blockchain.
 
 Design and implement arquitectures in order to accomplish projects goals.
@@ -103,7 +103,7 @@ Create multithreading workloads in order to proccesing data receved trhought  as
 
 ---
 
-**Techical leader** - **Grupo Matcofer, S.A** *(Caracas, Venezuela)* -
+**Technical leader** - **Grupo Matcofer, S.A** *(Caracas, Venezuela)* -
 
 Development e implementation of web enterprise apps (Spring MVC, Hibernate, PostgreSQL).
 
