@@ -32,6 +32,19 @@ My current focus is backend architecture and platform engineering using Java, No
 - Work on integrations with Marcone, Encompass, Reliable, Amazon Business, and Amazon MCF.
 - Develop backend capabilities using Java 21, Spring Boot, DynamoDB, AWS, REST APIs, and New Relic.
 
+### Rivian Automotive | Backend/API Developer
+
+**Service Platform Modernization and Cloud Migration** (Sep 2025 – May 2026)
+
+- Migrated multiple Spring Boot services from Java 11 to Java 21 and modernized GitLab CI/CD pipeline templates to standardize builds and deployments.
+- Migrated several GraphQL backend services to Kubernetes using NestJS and TypeScript, including vehicle, location, configurator, media, and roadside assistance services, with rollout through a core-proxy gateway.
+- Diagnosed and fixed Elasticsearch connectivity and client compatibility issues across Spring Boot 2 and 3, and configured role-based access to search clusters.
+- Built a delta-ingestion flow in Python to feed the data hub and power list views, monitored production logs, and resolved merge requests for AWS Lambda migrations.
+- Designed and applied Kubernetes service roles and infrastructure permissions as code, upgraded shared Elasticsearch modules, and configured CloudWatch-style alarms for new services.
+- Implemented PostgreSQL database migrations with Drizzle, including a migration pipeline and schema and backup strategies for the review environment.
+- Led the Roadside Assistance refactor from AWS Lambda functions to a NestJS service on Kubernetes: authored the architecture decision record, migrated listeners, packages, and GraphQL resolvers, and delivered dashboard integration and the supporting database migration.
+- Worked with Node.js/TypeScript, Java, Spring Boot, GraphQL, Kubernetes, AWS Lambda, Elasticsearch/OpenSearch, PostgreSQL, Drizzle, GitLab CI, and infrastructure as code.
+
 ### e4Cash | Backend Technical Leader
 
 **Electronic Payments**
